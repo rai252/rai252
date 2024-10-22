@@ -79,9 +79,7 @@
 
 <h3 align="center">Always improving my tech stack</h3>
 
-<div align="center">
-  <img height="150" src="/mnt/data/image.png" alt="Uploaded Image of Your Skills" />
-</div>
+
 
 <h3 align="left">🙋‍♀️ About Me</h3>
 
