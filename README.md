@@ -1,23 +1,4 @@
-<style>
-  /* Container with borders on both sides */
-  .content-with-border {
-    border-left: 3px solid #0077B5; /* Border on the left */
-    border-right: 3px solid #0077B5; /* Border on the right */
-    padding: 20px; /* Add some padding for better spacing */
-    margin: 20px auto; /* Center the container */
-    max-width: 900px; /* Set a max width for better readability */
-  }
 
-  /* Align the text inside the container */
-  .content-with-border h1,
-  .content-with-border h3,
-  .content-with-border p,
-  .content-with-border div {
-    text-align: center;
-  }
-</style>
-
-<!-- Wrap your content inside the bordered container -->
 <div class="content-with-border">
   <div align="center">
     <img height="150" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="Female Developer Coding GIF" />
