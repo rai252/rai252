@@ -1,3 +1,26 @@
+<style>
+  /* Add hover effect for icons */
+  a:hover img {
+    transform: scale(1.1); /* Enlarge icon on hover */
+    transition: transform 0.3s ease; /* Smooth transition effect */
+  }
+
+  /* Add hover effect for images */
+  img:hover {
+    transform: scale(1.05); /* Slightly enlarge the image */
+    transition: transform 0.3s ease; /* Smooth transition effect */
+  }
+
+  /* Button hover effect */
+  a img {
+    border-radius: 5px; /* Add rounded corners to icons */
+  }
+
+  a:hover img {
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2); /* Add shadow on hover */
+  }
+</style>
+
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="Female Developer Coding GIF" />
 </div>
@@ -17,7 +40,7 @@
 </div>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=khushirai.khushirai" alt="Visitor Badge"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=khushirai.khushirai" alt="Visitor Badge" />
 </div>
 
 <h3 align="center">💻 Tech Stack</h3>
@@ -57,7 +80,7 @@
 <h3 align="center">Always improving my tech stack</h3>
 
 <div align="center">
-  <img height="150" src="/mnt/data/image.png" alt="Uploaded Image of Your Skills"/>
+  <img height="150" src="/mnt/data/image.png" alt="Uploaded Image of Your Skills" />
 </div>
 
 <h3 align="left">🙋‍♀️ About Me</h3>
