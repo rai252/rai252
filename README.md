@@ -1,26 +1,4 @@
-<style>
-  /* Add hover effect for icons and buttons */
-  a:hover img {
-    transform: scale(1.1); /* Enlarge the image slightly on hover */
-    transition: transform 0.3s ease-in-out; /* Smooth transition effect */
-  }
 
-  /* Add hover effect for images */
-  img:hover {
-    transform: scale(1.05); /* Slightly enlarge the image */
-    transition: transform 0.3s ease-in-out; /* Smooth transition effect */
-  }
-
-  /* Button hover effect with shadow */
-  a img {
-    border-radius: 5px; /* Add rounded corners to icons */
-    transition: box-shadow 0.3s ease-in-out; /* Smooth transition for box-shadow */
-  }
-
-  a:hover img {
-    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2); /* Add a shadow on hover */
-  }
-</style>
 
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="Female Developer Coding GIF" />
