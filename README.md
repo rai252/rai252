@@ -40,7 +40,31 @@
 ### 
 
 <h3 align="left">🛠 Languages and Tools</h3>
+<h3>👨‍💻 Programming Languages</h3>
+<ul>
+  <li>JavaScript</li>
+  <li>TypeScript</li>
+  <li>Java</li>
+  <li>Python</li>
+  <li>SQL</li>
+</ul>
 
+<h3>🧰 Frameworks and Libraries</h3>
+<ul>
+  <li>React</li>
+  <li>Next.js</li>
+  <li>Spring</li>
+  <li>Bootstrap</li>
+  <li>Django</li>
+</ul>
+
+<h3>🗄️ Databases and Cloud Hosting</h3>
+<ul>
+  <li>MySQL</li>
+  <li>PostgreSQL</li>
+  <li>GitHub Pages</li>
+  <li>Heroku</li>
+</ul>
 <div align="left">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
